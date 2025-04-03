@@ -1,8 +1,8 @@
 # k8s-controller
-// TODO(user): Kubernetes Pod Tracker
+Kubernetes Pod Tracker
 
 ## Description
-// TODO(user): A simple kubernetes controller for sending alerts to Slack on pod creation (following Devops Toolbox tutorial)
+A simple kubernetes controller for sending alerts to Slack on pod creation (following Devops Toolbox tutorial)
 
 ## Getting Started
 
